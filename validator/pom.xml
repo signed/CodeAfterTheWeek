@@ -15,5 +15,6 @@
     <modules>
         <module>original-code</module>
         <module>frank</module>
+        <module>thomas</module>
     </modules>
 </project>
