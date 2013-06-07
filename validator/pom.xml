@@ -10,5 +10,6 @@
 
     <modules>
         <module>original-code</module>
+        <module>frank</module>
     </modules>
 </project>
